@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561915316611",
+    "project_id": "r2sp-5bbcf",
+    "storage_bucket": "r2sp-5bbcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561915316611:android:b3898190e8e2e5f4c48eb6",
+        "android_client_info": {
+          "package_name": "com.r2sp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561915316611-13f804fiaj4lh8q9pvakgj15duq5f47d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdmLIt-Icuf7yHVykgqpTrT-N97Cfuat4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561915316611-13f804fiaj4lh8q9pvakgj15duq5f47d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
